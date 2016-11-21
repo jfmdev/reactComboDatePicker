@@ -1,14 +1,14 @@
 {
-  "name": "ngComboDatePicker",
-  "version": "1.2.3",
+  "name": "reactComboDatePicker",
+  "version": "1.0.0",
   "authors": [
     "jfmdev <jfmdev@inboxalias.com>"
   ],
-  "description": "An Angular directive to select dates using combo boxes",
-  "main": "source/ngComboDatePicker.js",
+  "description": "A React component to select dates using combo boxes",
+  "main": "source/reactComboDatePicker.js",
   "keywords": [
-    "angular",
-    "directive",
+    "react",
+    "component",
     "calendar",
     "date",
     "picker",
@@ -17,7 +17,7 @@
     "combobox"
   ],
   "license": "LGPL-3.0",
-  "homepage": "http://jfmdev.github.io/ngComboDatePicker/",
+  "homepage": "http://jfmdev.github.io/reactComboDatePicker/",
   "ignore": [
     "**/.*",
     "node_modules",
