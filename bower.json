@@ -16,7 +16,7 @@
     "picker",
     "combobox"
   ],
-  "license": "LGPL-3.0",
+  "license": "MPL-2.0",
   "homepage": "http://jfmdev.github.io/reactComboDatePicker/",
   "ignore": [
     "**/.*",

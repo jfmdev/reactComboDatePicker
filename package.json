@@ -20,7 +20,7 @@
     "combobox"
   ],
   "author": "JFMDev <jfmdev@inboxalias.com> (http://jfmdev.github.io/)",
-  "license": "LGPL-3.0",
+  "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/jfmdev/reactComboDatePicker/issues"
   },
