@@ -1,5 +1,5 @@
 /*
- * reactComboDatePicker v1.0.0
+ * reactComboDatePicker v1.0.1
  * http://github.com/jfmdev/reactComboDatePicker
  * «Copyright 2016 Jose F. Maldonado»
  * This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -181,9 +181,9 @@ class ComboDatePicker extends React.Component {
 
             // Update model.
             this.model = new Date();
-            this.model.setDate(date);
-            this.model.setMonth(month);
             this.model.setFullYear(year);
+            this.model.setMonth(month);
+            this.model.setDate(date);
             
             // Validate min and max dates.
             if(this.model < this.minDate) this.model = this.minDate;

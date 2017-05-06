@@ -1,6 +1,6 @@
 {
   "name": "react-combo-date-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component to select dates using combo boxes",
   "main": "source/reactComboDatePicker.js",
   "scripts": {
